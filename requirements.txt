@@ -31,9 +31,4 @@ Django==1.11.29
 django-braces==1.13.0
 django-cors-headers==1.1.0
 # Editable install with no version control (django-evolution==2.0)
--e /Users/tatenda/.pyenv/versions/2.7.17/Python.framework/Versions/2.7/lib/python2.7/site-packages
-django-haystack==2.4.1
-django-multiselectfield==0.1.12
-django-oauth-toolkit==0.9.0
-django-pipeline==1.6.14
 gunicorn==19.10.0
